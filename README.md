@@ -1,9 +1,10 @@
 # :white_check_mark: condition-gitlab
-[![CI](https://github.com/go-semantic-release/condition-gitlab/workflows/CI/badge.svg?branch=master)](https://github.com/go-semantic-release/condition-gitlab/actions?query=workflow%3ACI+branch%3Amaster)
-[![Go Report Card](https://goreportcard.com/badge/github.com/go-semantic-release/condition-gitlab)](https://goreportcard.com/report/github.com/go-semantic-release/condition-gitlab)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/go-semantic-release/condition-gitlab)](https://pkg.go.dev/github.com/go-semantic-release/condition-gitlab)
 
-The GitLab CI condition for [go-semantic-release](https://github.com/go-semantic-release/semantic-release).
+[![CI](https://github.com/ted-vo/condition-gitlab/workflows/CI/badge.svg?branch=master)](https://github.com/ted-vo/condition-gitlab/actions?query=workflow%3ACI+branch%3Amaster)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ted-vo/condition-gitlab)](https://goreportcard.com/report/github.com/ted-vo/condition-gitlab)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/ted-vo/condition-gitlab)](https://pkg.go.dev/github.com/ted-vo/condition-gitlab)
+
+The GitLab CI condition for [semantic-release](https://github.com/ted-vo/semantic-release).
 
 ## Licence
 
